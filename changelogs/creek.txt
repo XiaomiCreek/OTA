@@ -1,0 +1,7 @@
+This is Android 16 QPR0 with August 2026 security patches
+
+CAUTION!!! DIRTY FLASH FROM OTHER ROMS
+MAKE A BACKUP NOW IF YOU WANT TO MOVE TO THIS BUILD
+
+Notes:
+==============================- Always dirty flash at your own risk. If your device bootloops, revert to an older build that boots.
