@@ -15,7 +15,7 @@
       "buildtype": "userdebug",
       "forum": "https://t.me/creekglobal",
       "firmware": "https://xmfirmwareupdater.com/firmware/creek/stable/OS3.0.304.0.WBOMIXM/",
-      "paypal": "github.com/nuruszama",
+      "paypal": "https://github.com/nuruszama",
       "github": "XiaomiCreek",
       "initial_installation_images": [
         "boot",
