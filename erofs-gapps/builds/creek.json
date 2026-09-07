@@ -1,0 +1,40 @@
+[
+  {
+    "date": "2026-09-07",
+    "datetime": 1788796800,
+    "version": "23.2",
+    "type": "RELEASE",
+    "files": [
+      {
+        "filename": "lineage-23.2-20260907-EROFS-GAPPS-creek.zip",
+        "filepath": "/creek/lineage-23.2-20260907-EROFS-GAPPS-creek.zip",
+        "sha1": "YOUR_SHA1_HASH",
+        "sha256": "YOUR_SHA256_HASH",
+        "size": 1434400840,
+        "url": "https://sourceforge.net/projects/xiaomicreek/files/lineage-23.2-20260907-erofs-gapps-creek.zip/download"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "datetime": 1788480997,
+    "files": [
+      {
+        "date": "2026-09-04",
+        "datetime": 1788480997,
+        "filename": "lineage-23.2-20260904-nightly-panther-signed.zip",
+        "filepath": "/full/panther/20260904/lineage-23.2-20260904-nightly-panther-signed.zip",
+        "os_patch_level": "2026-08-01",
+        "os_sdk_level": 36,
+        "ota_property_files": "payload_metadata.bin:4807:142459,payload.bin:4807:1434392828,payload_properties.txt:1434397693:156,apex_info.pb:2048:1602,care_map.pb:3697:1063,metadata:69:674,metadata.pb:811:1189                        ",
+        "sha1": "34883b45e9953017371defeacb4b9386c4fba60e",
+        "sha256": "1107fd5cc8164ae5a469441595cb9b8c8519e8127c07ee5d92bc43e746745064",
+        "size": 1434400840,
+        "type": "nightly",
+        "url": "https://mirrorbits.lineageos.org/full/panther/20260904/lineage-23.2-20260904-nightly-panther-signed.zip"
+      }
+    ],
+    "type": "nightly",
+    "version": "23.2"
+  }
+]
