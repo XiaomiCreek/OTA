@@ -1,3 +1,10 @@
+-------------------------------------------------------------------
+=> 20260911 <=
+• September security patch
+• one step towards fast charge
+• waiting to see new bugs
+• initial settings for future ota (lineage)
+-------------------------------------------------------------------
 This is Android 16 QPR0 with August 2026 security patches
 
 CAUTION!!! DIRTY FLASH FROM OTHER ROMS
