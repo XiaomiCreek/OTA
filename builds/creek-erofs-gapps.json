@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Abdul Samad",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "creek",
+      "filename": "EvolutionX-16.0-20260911-creek-11.11-stable.zip",
+      "download": "https://sourceforge.net/projects/xiaomicreek/files/16/EvolutionX/EvolutionX-16.0-20260911-creek-11.11-stable.zip/download",
+      "timestamp": 1789114381,
+      "md5": "794bb6c49c3be403e10cd4b147ede729",
+      "sha256": "bf5bf47ffdc3062c12aada1f5a7cf9ef7b0640ede6c6bedcd7a1c9145c565dea",
+      "size": 2993539134,
+      "version": "11.11",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/creekglobal",
+      "firmware": "https://xmfirmwareupdater.com/firmware/creek/stable/OS3.0.304.0.WBOMIXM/",
+      "paypal": "https://paypal.me/nuruszama",
+      "github": "https://github.com/XiaomiCreek",
+      "initial_installation_images": [
+        "boot",
+        "dtbo",
+        "recovery"
+      ],
+      "extra_images": []
+    }
+  ]
+}
